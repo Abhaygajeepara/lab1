@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+.display-4{
+  text-align: center;
+  
+}
+.card-header{
+background-color: black;
+color: white;
+
+}
+.card{
+  text-align: center;
+}
